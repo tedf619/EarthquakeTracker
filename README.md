@@ -290,7 +290,6 @@ public partial class FormMain : Form
 
   void EarthquakeMap_StatusChanged(string status)
   {
-    labelStatusMessage.ForeColor = Color.Black;
     labelStatusMessage.Text = status;
   }
 
