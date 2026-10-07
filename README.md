@@ -425,7 +425,7 @@ The deadliest earthquake in the 20th century, and possibly of all time, was the 
 
 Although the Tangshan magnitude was *only* 7.4,  the official death toll is 242,000. Unofficial foreign estimates have been as high as 800,000.
 
-Another earthquake that caused massive fatalities was the 2004 Sumatra-Andaman earthquake, which occurred the day after Christmas.
+Another earthquake that caused massive fatalities was the 2004 Sumatra-Andaman earthquakes, which occurred between the 25th and 26th of December.
 
 <img width="981" height="630" alt="image" src="https://github.com/user-attachments/assets/2c0ca419-7aa2-41e6-990b-df3102437473" />
 
